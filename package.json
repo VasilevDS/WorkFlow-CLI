@@ -1,0 +1,12 @@
+{
+  "name": "taskflow-cli",
+  "version": "1.0.0",
+  "description": "Простой CLI-список задач",
+  "type": "commonjs",
+  "bin": {
+    "taskflow": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  }
+}
